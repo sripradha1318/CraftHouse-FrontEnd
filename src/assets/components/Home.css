@@ -1,0 +1,66 @@
+
+header {
+    background-color: #333; /* Adjust as needed */
+    padding: 10px 20px; /* Reduced padding */
+  }
+  
+  header .title-font {
+    font-size: 2rem; /* Reduced font size */
+  }
+  
+  header svg {
+    width: 40px; /* Reduced SVG size */
+    height: 40px;
+    margin-right: 10px; /* Added margin */
+  }
+  
+header {
+    background-color: #333; /* Adjust as needed */
+    padding: 20px;
+  }
+  
+  header a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  header a:hover {
+    color: lightgrey;
+  }
+  
+  /* Navigation styles */
+  nav a {
+    margin-right: 15px;
+  }
+  
+  /* Section styles */
+  section {
+    padding: 50px 0;
+  }
+  
+  /* Title styles */
+  .title-font {
+    font-size: 3rem; /* Adjust as needed */
+  }
+  
+  /* Button styles */
+  button {
+    background-color: #555; /* Adjust as needed */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #777; /* Adjust as needed */
+  }
+  
+  /* Image styles */
+  img {
+    width: 20%; /* Ensure image takes full width of container */
+    height: auto; /* Maintain aspect ratio */
+    align-content: center;
+  }
+  
